@@ -7,7 +7,7 @@ Aspiring Full Stack Developer & Data Enthusiast 🚀
 
 ### 👨‍💻 About Me
 - 🎯 Passionate about building **scalable, user-friendly web applications** and **data-driven solutions**.  
-- 🛠 Skilled in **HTML, CSS, JavaScript, Python, PHP, MySQL**, and modern frameworks.  
+- 🛠 Skilled in **HTML, CSS, JavaScript, Python, PHP, MySQL**, and **AI Tools**.  
 - 📊 Exploring **AI, Machine Learning**, and **Data Visualization** with **NumPy, Pandas, Power BI**.  
 - 🌱 Always learning, adapting, and delivering impactful solutions.  
 - 📬 Reach me at **[steveabrahammathew@gmail.com](mailto:steveabrahammathew@gmail.com)**  
